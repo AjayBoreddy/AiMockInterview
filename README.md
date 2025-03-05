@@ -56,7 +56,7 @@ Google Cloud Project
 - Clone the repository
 
 - git clone https://github.com/AjayBoreddy/AiMockInterview.git
-- cd react-ai-mock-interview
+- cd AiMockInterview
 
 
 #### Clone this repository:
