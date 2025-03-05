@@ -4,7 +4,7 @@ React AI Mock Interview is an innovative web application designed to simulate re
 
 
 
-![My Project Landing Page](./snap.png)
+
 
 ## Features
 
