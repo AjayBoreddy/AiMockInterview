@@ -2,7 +2,7 @@
 
 React AI Mock Interview is an innovative web application designed to simulate real-world mock interviews using cutting-edge AI technology. This platform provides an immersive interview preparation experience with intelligent feedback and personalized learning.
 
-##🌐 Live Preview
+## 🌐 Live Preview
 - Website: https://interviewmock.netlify.app/
 
 
@@ -55,8 +55,8 @@ Google Cloud Project
 ### Installation
 - Clone the repository
 
-bashCopygit clone https://github.com/AjayBoreddy/AiMockInterview.git
-cd react-ai-mock-interview
+- git clone https://github.com/AjayBoreddy/AiMockInterview.git
+- cd react-ai-mock-interview
 
 
 #### Clone this repository:
