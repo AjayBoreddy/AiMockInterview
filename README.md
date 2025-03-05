@@ -1,27 +1,36 @@
 # React AI Mock Interview
 
-React AI Mock Interview is an innovative web application designed to simulate real-world mock interviews using AI. With seamless user authentication, an intuitive interface, and integration with advanced AI, this project serves as an invaluable tool for interview preparation.
+React AI Mock Interview is an innovative web application designed to simulate real-world mock interviews using cutting-edge AI technology. This platform provides an immersive interview preparation experience with intelligent feedback and personalized learning.
 
-
-
+##🌐 Live Preview
+- Website: https://interviewmock.netlify.app/
 
 
 ## Features
 
-- AI-Powered Mock Interviews  
-  Leverage Google Gemini AI to simulate realistic interview scenarios, evaluate responses, and provide personalized feedback.
+- AI-Powered Mock Interviews
 
-- Seamless Authentication  
-  User authentication is powered by Clerk, ensuring secure and efficient access control.
+Leverage Google Gemini AI to simulate realistic interview scenarios
+Receive personalized, intelligent feedback on your responses
+Evaluate performance across multiple dimensions
 
-- Intuitive UI  
-  Built with Shadcn UI, the application boasts a modern and responsive interface for a seamless user experience.
+- Seamless User Experience
 
-- Data Management  
-  All user progress, interview analytics, and configurations are stored securely in Google Firebase Firestore.
+Secure authentication powered by Clerk
+Modern, responsive UI built with Shadcn UI
+Intuitive navigation and user-friendly interface
 
-- Dynamic Interview Customization  
-  Customize interviews based on job roles, difficulty levels, and domains.
+- Comprehensive Interview Preparation
+
+Customizable interviews by job roles, difficulty levels, and domains
+Dynamic questionnaires with multiple question types
+Real-time performance insights and analytics
+
+- Robust Data Management
+
+Secure user data storage with Google Firebase Firestore
+Progress tracking and performance history
+Downloadable interview reports
 
 ---
 
@@ -36,8 +45,19 @@ React AI Mock Interview is an innovative web application designed to simulate re
 ---
 
 ## Getting Started
+- Prerequisites
+
+Node.js (v16 or later)
+npm or pnpm
+Firebase account
+Google Cloud Project
 
 ### Installation
+- Clone the repository
+
+bashCopygit clone https://github.com/AjayBoreddy/AiMockInterview.git
+cd react-ai-mock-interview
+
 
 #### Clone this repository:
 
